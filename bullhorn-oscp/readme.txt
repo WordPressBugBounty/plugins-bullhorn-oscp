@@ -2,8 +2,8 @@
 Tags: Bullhorn, Career Portal, OSCP
 Requires at least: 4.6
 Requires PHP: 5.6
-Tested up to: 5.9.1
-Stable tag: 3.4.2
+Tested up to: 7.0
+Stable tag: 3.8.0
 License: MIT
 
 A simple, lightweight Wordpress plugin that adds Career Portal to any page in your Wordpress install by adding a snippet into the content of any page.

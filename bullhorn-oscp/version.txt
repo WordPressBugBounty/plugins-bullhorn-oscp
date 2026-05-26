@@ -6,10 +6,10 @@ _________                                           __________                  
  \______  /(____  / |__|    \___  > \___  > |__|     |____|     \____/  |__|    |__|  (____  /|____/
         \/      \/              \/      \/                                                 \/
 
-Date: Fri, 18 Mar 2022 14:24:49 GMT
-Career Portal Version: 3.3.0
+Date: Fri, 22 May 2026 10:46:23 GMT
+Career Portal Version: 3.8.0
 Build Information:
-  Build#: UNKNOWN
-  Commit: UNKNOWN
+  Build#: 2
+  Commit: c450bae71461bf667ebb480456d8ef920689a9d1
 Dependency Information:
   NovoElements: 5.8.1
